@@ -1,0 +1,27 @@
+C:\Users\rockp\source\repos\Advent of Code 2022\bin\Debug\net6.0\Advent of Code 2022.exe
+C:\Users\rockp\source\repos\Advent of Code 2022\bin\Debug\net6.0\Advent of Code 2022.deps.json
+C:\Users\rockp\source\repos\Advent of Code 2022\bin\Debug\net6.0\Advent of Code 2022.runtimeconfig.json
+C:\Users\rockp\source\repos\Advent of Code 2022\bin\Debug\net6.0\Advent of Code 2022.dll
+C:\Users\rockp\source\repos\Advent of Code 2022\bin\Debug\net6.0\Advent of Code 2022.pdb
+C:\Users\rockp\source\repos\Advent of Code 2022\obj\Debug\net6.0\Advent of Code 2022.csproj.AssemblyReference.cache
+C:\Users\rockp\source\repos\Advent of Code 2022\obj\Debug\net6.0\Advent of Code 2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rockp\source\repos\Advent of Code 2022\obj\Debug\net6.0\Advent of Code 2022.AssemblyInfoInputs.cache
+C:\Users\rockp\source\repos\Advent of Code 2022\obj\Debug\net6.0\Advent of Code 2022.AssemblyInfo.cs
+C:\Users\rockp\source\repos\Advent of Code 2022\obj\Debug\net6.0\Advent of Code 2022.csproj.CoreCompileInputs.cache
+C:\Users\rockp\source\repos\Advent of Code 2022\obj\Debug\net6.0\Advent of Code 2022.dll
+C:\Users\rockp\source\repos\Advent of Code 2022\obj\Debug\net6.0\refint\Advent of Code 2022.dll
+C:\Users\rockp\source\repos\Advent of Code 2022\obj\Debug\net6.0\Advent of Code 2022.pdb
+C:\Users\rockp\source\repos\Advent of Code 2022\obj\Debug\net6.0\Advent of Code 2022.genruntimeconfig.cache
+C:\Users\rockp\source\repos\Advent of Code 2022\obj\Debug\net6.0\ref\Advent of Code 2022.dll
+C:\Users\rockp\source\repos\Advent of Code 2022\bin\Debug\net6.0\Advent of Code 2022.dll.config
+C:\Users\rockp\source\repos\Advent of Code 2022\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rockp\source\repos\Advent of Code 2022\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rockp\source\repos\Advent of Code 2022\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\rockp\source\repos\Advent of Code 2022\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rockp\source\repos\Advent of Code 2022\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\rockp\source\repos\Advent of Code 2022\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\rockp\source\repos\Advent of Code 2022\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rockp\source\repos\Advent of Code 2022\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\rockp\source\repos\Advent of Code 2022\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rockp\source\repos\Advent of Code 2022\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\rockp\source\repos\Advent of Code 2022\obj\Debug\net6.0\Advent of Code 2022.csproj.CopyComplete

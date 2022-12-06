@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ko9luUM6axGcVf5iYoV92mhvy5vim7WPug2GTmVhXiXxPIfq+oUizrol6xWyhxwL87aaXZ3mhb87vDRs0eMK5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rockp\\source\\repos\\Advent of Code 2022\\Advent of Code 2022.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rockp\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\rockp\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\rockp\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\rockp\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\rockp\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\rockp\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
