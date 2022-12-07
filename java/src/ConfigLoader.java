@@ -4,7 +4,7 @@ import java.nio.file.Path;
 import java.util.Properties;
 
 public class ConfigLoader {
-    private static String configPath = "../config.properties";
+    private static String configPath = "config.properties";
     private ConfigLoader() {};
 
     public static Path GetConfigKey(String key){

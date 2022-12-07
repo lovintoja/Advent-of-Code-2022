@@ -1,6 +1,10 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        Exercise6.Execute();
-        Exercise7.Execute();
+        Exercise3 ex3 = new Exercise3();
+        ex3.Execute();
+        Exercise6 ex6 = new Exercise6();
+        ex6.Execute();
+        Exercise7 ex7 = new Exercise7();
+        ex7.Execute();
     }
 }

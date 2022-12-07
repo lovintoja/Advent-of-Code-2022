@@ -4,10 +4,8 @@ import java.util.ArrayList;
 import java.util.stream.IntStream;
 
 public class Exercise6 {
-    private Exercise6() {
-    }
 
-    public static void Execute() {
+    public void Execute() {
         try {
             String transmission = Files.readString(ConfigLoader.GetConfigKey("input6"));
 
@@ -21,14 +19,14 @@ public class Exercise6 {
         }
     }
 
-    private static void FirstApproach(String transmission, int consecutiveCharacters) {
+    private void FirstApproach(String transmission, int consecutiveCharacters) {
         System.out.println("Starting sequence at: "
                 + IntStream.range(consecutiveCharacters, transmission.length())
                         .filter(x -> transmission.substring(x - consecutiveCharacters, x).chars().distinct().count() == consecutiveCharacters).findFirst()
                         .orElse(-1));
     }
 
-    private static void SecondApproach(String transmission, int consecutiveCharacters){
+    private void SecondApproach(String transmission, int consecutiveCharacters){
         ArrayList<Character> transmissionLetters = new ArrayList<>();
 
             for(char c : transmission.toCharArray()){
