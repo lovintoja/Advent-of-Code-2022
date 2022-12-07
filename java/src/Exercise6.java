@@ -1,6 +1,5 @@
 import java.io.IOException;
 import java.nio.file.Files;
-import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.stream.IntStream;
 
@@ -10,7 +9,7 @@ public class Exercise6 {
 
     public static void Execute() {
         try {
-            String transmission = Files.readString(Path.of(ConfigLoader.GetConfigKey("input6")));
+            String transmission = Files.readString(ConfigLoader.GetConfigKey("input6"));
 
             FirstApproach(transmission, 4);
             SecondApproach(transmission, 4);
