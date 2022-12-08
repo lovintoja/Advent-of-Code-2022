@@ -3,6 +3,8 @@ import java.nio.file.Files;
 import java.util.ArrayList;
 import java.util.List;
 
+import common.ConfigLoader;
+
 public class Exercise4 {
 
     public void Execute(){

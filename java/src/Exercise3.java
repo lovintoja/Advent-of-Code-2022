@@ -2,6 +2,8 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.util.List;
 
+import common.ConfigLoader;
+
 public class Exercise3 {
 
     public void Execute(){

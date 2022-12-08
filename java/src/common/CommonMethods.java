@@ -1,3 +1,4 @@
+package common;
 public class CommonMethods{
     public static int IntTryParse(String x, int exValue){
         try{

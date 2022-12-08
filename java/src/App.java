@@ -8,5 +8,7 @@ public class App {
         ex6.Execute();
         Exercise7 ex7 = new Exercise7();
         ex7.Execute();
+        Exercise8 ex8 = new Exercise8();
+        ex8.Execute();
     }
 }
